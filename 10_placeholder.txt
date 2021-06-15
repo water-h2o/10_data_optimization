@@ -1,0 +1,1 @@
+* the feature vectors are represented in only nred ≤ nfeat dimensions. This analysis was made in MATLAB, a script was written that performs the data optimization stage: it is listed in (GITHUB CITATION). --> 10_data_optimization
